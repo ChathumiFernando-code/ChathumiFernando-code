@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="./files/video2.gif" alt="Your Image">
+<h1 align="center">Hi 👋, I'm Chathumi Fernando</h1>
+<h3 align="center">A Full-Stack Developer from Sri Lanka</h3>
 
-<!--
-**ChathumiFernando-code/ChathumiFernando-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://raw.githubusercontent.com/Aoihara/Aoihara/master/git.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChathumiFernando-code&label=Profile%20views&color=0e75b6&style=flat" alt="chathumi-fernando" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I’m undergraduate software engineering student at [University Westminster].
+
+- 🔗 This is our company [GenZ DevLabs](https://www.genzdevlabs.com/).
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChathumiFernando-code&show_icons=true&locale=en" alt="chathumi-fernando" /></p>
+<img align="right" src="./files/bottomm.gif" width="300px">
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChathumiFernando-code&" alt="chathumi-fernando" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChathumiFernando-code&show_icons=true&locale=en&layout=compact" alt="chathumi-fernando" /></p>
